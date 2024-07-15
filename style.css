@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* განსხვავება background სა და background-color ს შორის */
+
+body {
+  /* background-color: ""; */
+  /* background-image: ""; */
+  /* background-repeat: ""; */
+  /* background-attachment: ""; */
+  /* background-position: ""; */
+  /* background-size: ""; */
+  /* background-origin: ""; */
+}
+
+body {
+  /* background: "" */
+  height: 80vh;
+
+  /* background: transparent url(./assets/background.jpg) no-repeat center/cover; */
+}
